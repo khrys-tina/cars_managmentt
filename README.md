@@ -14,3 +14,5 @@ _Then you have to go to a programming environment, let's say in VS code_
 - Enter the program.
 - Push the button "Clone git repository".
 - Then we insert our link and we're done.
+- Then right-click your mouse button and click on ‘Run code’, or push the buttons Ctrl+Alt+N.
+- You will see the output in your terminal like this: 'Hello World!'.
